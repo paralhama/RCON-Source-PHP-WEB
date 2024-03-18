@@ -31,7 +31,6 @@ if ($_POST)
     print ("<SCRIPT LANGUAGE='JavaScript' SRC='script.js'></SCRIPT>");
     print ("</head>");
     print ("<body><noscript><div class='title'><font color='#FF0000'><b>WARNING!</b></font> Javascript is disabled. Some functions will not operate!</div><br></noscript>");
-    print ("<div class='title'><img src='ruckmanrcon.png'><img src='source.png'></div><br>");
     print ("<table class='maintable'>");
     print ("<tr>");
     print ("<td class='custom'>");
